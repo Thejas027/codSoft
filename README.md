@@ -22,7 +22,7 @@ Welcome to my **CodSoft Internship** repository! This repo contains the projects
 
 ## 🚧 Progress
 
-- Amazon Landing Page: In Progress 🟡
+- Amazon Landing Page: COMPLETED!! ✅
 - Portfolio Website: Coming Soon 🔜
 - Calculator App: Coming Soon 🔜
 
