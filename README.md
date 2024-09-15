@@ -5,11 +5,13 @@ Welcome to my **CodSoft Internship** repository! This repo contains the projects
 ## 📋 Tasks Overview
 
 1. **Amazon Landing Page** 🛒
+
    - Recreating the landing page of Amazon with a focus on responsiveness and design accuracy.
-  
+
 2. **Portfolio Website** 💼
+
    - Building a personal portfolio to showcase my projects, skills, and achievements.
-  
+
 3. **Calculator App** 🧮
    - Developing a functional and user-friendly calculator with basic operations.
 
@@ -23,6 +25,5 @@ Welcome to my **CodSoft Internship** repository! This repo contains the projects
 ## 🚧 Progress
 
 - Amazon Landing Page: COMPLETED!! ✅
-- Portfolio Website: Coming Soon 🔜
-- Calculator App: Coming Soon 🔜
-
+- Portfolio Website: Coming Soon ✅
+- Calculator App: Coming Soon ✅
